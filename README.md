@@ -54,3 +54,4 @@ Design a Flask API based on the queries that have been developed.
 - When given the start and the end date, calculate the TMIN, TAVG, and TMAX for dates between the start and end date inclusive
   
 ![alt tag](https://github.com/PetraLee2019/Climate-Analysis-and-Exploration/blob/master/Images/start_end_day_api.png?raw=true)
+![Alt Tag](Images/our of office.png)
