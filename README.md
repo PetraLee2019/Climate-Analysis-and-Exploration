@@ -31,8 +31,7 @@ Use Python and SQLAlchemy to do basic climate analysis and data exploration of y
 
 - - -
 
-## Step 2 - Climate App
-## Hawaii Climate App (Flask API)
+## Step 2 - Hawaii Climate App (Flask API)
 ![Alt Tag](https://github.com/PetraLee2019/Climate-Analysis-and-Exploration/blob/master/Images/Hawaii%20Kayak%20Tour.jpg?raw=true)
 Design a Flask API based on the queries that have been developed.
 - Use FLASK to create the routes
@@ -41,10 +40,12 @@ Design a Flask API based on the queries that have been developed.
 - /api/v1.0/precipitation
 - Convert the Query Results to a Dictionary Using date as the Key and prcp as the Value
 - Return the JSON representation of the dictionary
+
 ![alt tag](https://github.com/PetraLee2019/Climate-Analysis-and-Exploration/blob/master/Images/Precipitation_api.png?raw=true)
 
 - /api/v1.0/stations
 - Return a JSON list of stations from the dataset
+
 ![alt tag](https://github.com/PetraLee2019/Climate-Analysis-and-Exploration/blob/master/Images/Stations_api.png?raw=true)
 
 - /api/v1.0/tob- /api/v1.0/<start> and /api/v1.0/<start>/<end>
@@ -53,6 +54,3 @@ Design a Flask API based on the queries that have been developed.
 - When given the start and the end date, calculate the TMIN, TAVG, and TMAX for dates between the start and end date inclusive
   
 ![alt tag](https://github.com/PetraLee2019/Climate-Analysis-and-Exploration/blob/master/Images/start_end_day_api.png?raw=true)
-
-
-
