@@ -1,6 +1,6 @@
 # Surfs-Up
 ## Background
-Climate Analysis and Data Exploration of Climate Database Using Python (Pandas, Matplotlib), SQLAlchemy (ORM Queries) and Flask
+Climate Analysis and Data Exploration of Climate Database Using Python (Pandas, Matplotlib), SQLAlchemy (ORM Queries) and Flask.
 ![Alt Tag](Images/surfs-up.png)
 
 ## Objectives
